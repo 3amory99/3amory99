@@ -14,6 +14,11 @@
 * Graduated from Computer Science & Artifactual Intelligence at Beni Suef University, I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in data major.
 
 
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3amory99&show_icons=true&locale=en&layout=compact" alt="3amorrry" /></p>
+<br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3amory99&label=Profile%20views&color=0e75b6&style=flat" alt="3amory99" /> </p>
 
