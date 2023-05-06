@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Omar Mahmoud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-ragab-0175b01a2/"><h3 align="center">Junior Data Scientist 🌟.</h3></a>
+  <a href="https://www.linkedin.com/in/omar-mahmoud-5bb616175/"><h3 align="center">Junior Data Analyst 🌟.</h3></a>
 </p>
 
 
@@ -9,24 +9,13 @@
 
 ## :sassy_man:  About me
 
-* Professional Data Enthusiast with hands-on experience in Data Analytics and visualization for more than one year, including Business intelligence, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, and Statistics, Computer Vision, Natural Language Processing (NLP). Leverage all of them to provide data-driven solutions to help decision-makers
+* Professional Data Enthusiast with hands-on experience in Data Analytics and visualization for about a year, including Business intelligence, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, and Statistics, Natural Language Processing (NLP). Leverage all of them to provide data-driven solutions to help decision-makers
 
-* Graduated from Computer Science & Artifactual Intelligence at Helwan University, I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in the market basket.
+* Graduated from Computer Science & Artifactual Intelligence at Beni Suef University, I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in data major.
 
 
-<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrhman2022&show_icons=true&locale=en&layout=compact" alt="Abdelrhman2022" /></p>
-<br>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrhman2022" alt="Abdelrhman2022" /></p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelrhman2022&show_icons=true&locale=en" alt="Abdelrhman2022" /></p>
-<br>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman2022&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman2022" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3amory99&label=Profile%20views&color=0e75b6&style=flat" alt="3amory99" /> </p>
 
 
 
