@@ -16,12 +16,13 @@
 
 ## :sassy_man:  About me
 
-* Professional Data Enthusiast with hands-on experience in Data Analytics and visualization for about a year, including Business intelligence, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data analysis, and Statistics, Natural Language Processing (NLP). Leverage all of them to provide data-driven solutions to help decision-makers
+* Professional Data Engineer with hands-on experience in Data Analytics and visualization for about a year, including Business intelligence, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data analysis, and Statistics, Natural Language Processing (NLP). Leverage all of them to provide data-driven solutions to help decision-makers
 
-* Graduated from Computer Science & Artifactual Intelligence at Beni Suef University, I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in data major.
+* Graduated from Computer Science & Artifactual Intelligence at Beni Suef University, and also graduated from ITI Alex Data Engineering Track I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in data major.
 
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3amory99&show_icons=true&locale=en&layout=compact" alt="3amorrry" /></p>
 <br>
