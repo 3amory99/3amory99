@@ -73,6 +73,7 @@
 
  
  - **Server Administrations**:
+   
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![Linux Red Hat](https://img.shields.io/badge/LinuxRedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=white)
     ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
@@ -114,6 +115,10 @@
  </samp>
 </div>
 </details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3amory99&show_icons=true&locale=en&layout=compact" alt="3amorrry" /></p>
 <br>
 
