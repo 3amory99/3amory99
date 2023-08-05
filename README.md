@@ -1,9 +1,11 @@
 <h1 align="center">Hi , I'm Omar Mahmoud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-mahmoud-5bb616175/"><h3 align="center">Junior Data Analyst 🌟.</h3></a>
+  <a href="https://www.linkedin.com/in/omar-mahmoud-5bb616175/"><h3 align="center">Data Engineer 🌟.</h3></a>
 </p>
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8D3082&center=true&vCenter=true&width=435&lines=This+is+Omar+Mahmoud;Data+Engineer;ITI+Graduated+%3A)" alt="Typing SVG" /></a>
+</p>
 <br>
 
 
