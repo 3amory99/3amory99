@@ -111,6 +111,15 @@
     ![Microsoft Project](https://img.shields.io/badge/MicrosoftProject-BF4722?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
     ![Microsoft OneNote](https://img.shields.io/badge/MicrosoftOneNote-7719AA?style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
 
+ <br>
+ 
+ - **Design**:
+
+    ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
  </p>
  </samp>
 </div>
