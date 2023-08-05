@@ -20,10 +20,87 @@
 * Enthusiastic learner focused on Big Data, Data Engineering, BI, and Data Analysis.
 * Graduated from Computer Science & Artifactual Intelligence at Beni Suef University, and also graduated from ITI Alex Data Engineering Track I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in data major.
 
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<details>
+  <summary><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture> Skills</summary>
+<div>
+<samp>
+
+ <p align="center">
+ 
+
+- **Programming Languages**:
+    
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java]([https://img.shields.io/badge/Scala-EE4C2C?style=for-the-badge&logo=Scala&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+    ![SQL](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+<br>   
+
+- **Data Engineering**:
+
+    ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+    ![BigDataConcepts](https://img.shields.io/badge/BigDataConcepts-E7282D?style=for-the-badge&logo=ServerFault&logoColor=white)
+    ![ETL](https://img.shields.io/badge/ETL-F68D2E?style=for-the-badge&logo=GoToMeeting&logoColor=white)
+    ![Data Warehouse](https://img.shields.io/badge/DataWarehouse-D9232E?style=for-the-badge&logo=MicroStrategy&logoColor=white)
+    ![NoSQL](https://img.shields.io/badge/NoSQL-7764FA?style=for-the-badge&logo=Osano&logoColor=white)
+    ![ApacheCassandra](https://img.shields.io/badge/ApacheCassandra-1287B1?style=for-the-badge&logo=ApacheCassandra&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+
+    
+<br>
+
+- **Data Analysis**:
+
+   ![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+   ![BusinessObject](https://img.shields.io/badge/BusinessObject-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
+
+<br>
+
+- **Data Visualization**:
+
+    ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white)
+    ![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Tableau&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C1528?style=for-the-badge&logo=Soundcharts&logoColor=white)
+    ![BusinessObject WEBI](https://img.shields.io/badge/BusinessObjectWEBI-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
+    
+<br>
+
+ 
+ - **Server Administrations**:
+
+    ![Linux Red Hat](https://img.shields.io/badge/LinuxRedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=white)
+    ![Bash Scripting](https://img.shields.io/badge/BashScripting-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+    
+<br>
+ 
+ - **Version Control**:
+
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+    ![Virtual Machines](https://img.shields.io/badge/VirtualMachines-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
+    
+<br>
+ 
+ - **Microsoft Office Tools**:
+
+    ![Microsoft Excel](https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
+    ![Microsoft PowerPoint](https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
+    ![Microsoft Word](https://img.shields.io/badge/MicrosoftWord-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)
+    ![Microsoft Project](https://img.shields.io/badge/MicrosoftProject-BF4722?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
+    ![Microsoft OneNote](https://img.shields.io/badge/MicrosoftOneNote-7719AA?style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
+	 
+ 
+ </p>
+ </samp>
+</div>
+</details>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3amory99&show_icons=true&locale=en&layout=compact" alt="3amorrry" /></p>
 <br>
 
