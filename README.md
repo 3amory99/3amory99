@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <details>
-  <summary size = 50sp><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture> Skills</summary>
+  <summary font-size = 50><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture> Skills</summary>
 <div>
 <samp>
 
@@ -34,7 +34,7 @@
 - **Programming Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![SQL](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
@@ -59,24 +59,31 @@
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-   ![BusinessObject](https://img.shields.io/badge/BusinessObject-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
+  
 
 <br>
 
 - **Data Visualization**:
 
     ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white)
-    ![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Tableau&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C1528?style=for-the-badge&logo=Soundcharts&logoColor=white)
-    ![BusinessObject WEBI](https://img.shields.io/badge/BusinessObjectWEBI-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
+    ![Seaborn](https://img.shields.io/badge/BusinessObjectWEBI-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
     
 <br>
 
  
  - **Server Administrations**:
-
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![Linux Red Hat](https://img.shields.io/badge/LinuxRedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=white)
+    ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
     ![Bash Scripting](https://img.shields.io/badge/BashScripting-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+
+<br>
+ 
+ - **Workflow Platforms**:
+
+    ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
     
 <br>
  
@@ -87,6 +94,13 @@
     ![Virtual Machines](https://img.shields.io/badge/VirtualMachines-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
     
 <br>
+
+  - **Virtualization**:
+
+    ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+    ![VMware Workstation](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+    
+ <br>
  
  - **Microsoft Office Tools**:
 
@@ -95,8 +109,7 @@
     ![Microsoft Word](https://img.shields.io/badge/MicrosoftWord-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)
     ![Microsoft Project](https://img.shields.io/badge/MicrosoftProject-BF4722?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
     ![Microsoft OneNote](https://img.shields.io/badge/MicrosoftOneNote-7719AA?style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
-	 
- 
+
  </p>
  </samp>
 </div>
