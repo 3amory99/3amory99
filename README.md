@@ -40,7 +40,7 @@
 <br>   
 
 - **Data Engineering**:
-
+    [Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
     ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
     ![BigDataConcepts](https://img.shields.io/badge/BigDataConcepts-E7282D?style=for-the-badge&logo=ServerFault&logoColor=white)
     ![ETL](https://img.shields.io/badge/ETL-F68D2E?style=for-the-badge&logo=GoToMeeting&logoColor=white)
