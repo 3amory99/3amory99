@@ -16,7 +16,7 @@
 
 ## :sassy_man:  About me
 
-* Professional Data Engineer with hands-on experience in Data Engineering, Big Data, Data Analytics, and visualization for about a year, including Business intelligence, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data analysis, and Statistics, Natural Language Processing (NLP). Leverage all of them to provide data-driven solutions to help decision-makers
+* Professional Data Engineer with hands-on experience in Data Engineering, Big Data, Data Analytics, and visualization, including Business intelligence, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data analysis, and Statistics, Natural Language Processing (NLP). Leverage all of them to provide data-driven solutions to help decision-makers
 * Enthusiastic learner focused on Big Data, Data Engineering, BI, and Data Analysis.
 * Graduated from Computer Science & Artifactual Intelligence at Beni Suef University, and also graduated from ITI Alex Data Engineering Track I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in data major.
 
