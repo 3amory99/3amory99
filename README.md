@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Omar Mahmoud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , This is Omar Mahmoud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-mahmoud-5bb616175/"><h3 align="center">Data Engineer</h3></a>
 </p>
@@ -16,8 +16,8 @@
 
 ## :sassy_man:  About me
 
-* Professional Data Engineer with hands-on experience in Data Engineering, Big Data, Data Analytics, and visualization, including Business intelligence, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data analysis, and Statistics, Natural Language Processing (NLP). Leverage all of them to provide data-driven solutions to help decision-makers
-* Enthusiastic learner focused on Big Data, Data Engineering, BI, and Data Analysis.
+* Professional Data Engineer with hands-on experience in Data Engineering, Big Data, and BI specialized in, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data analysis. Leverage all of them to provide data-driven solutions to help decision-makers
+* Enthusiastic learner focused on Big Data, Data Engineering, and BI.
 * Graduated from Computer Science & Artifactual Intelligence at Beni Suef University, and also graduated from ITI Alex Data Engineering Track I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in data major.
 
 <br>
