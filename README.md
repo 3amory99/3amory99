@@ -9,16 +9,17 @@
 <br>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 
 ## :sassy_man:  About me
 
-* Professional Data Engineer with hands-on experience in Data Engineering, Big Data, and BI specialized in, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data analysis. Leverage all of them to provide data-driven solutions to help decision-makers
+* Enthusiast Data Engineer with hands-on experience in Data Engineering, Big Data, and BI specialized in, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data Recovery. Leverage all of them to provide data-driven solutions to help decision-makers
 * Enthusiastic learner focused on Big Data, Data Engineering, and BI.
-* Graduated from Computer Science & Artifactual Intelligence at Beni Suef University, and also graduated from ITI Alex Data Engineering Track I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in data major.
+* Graduated from Computer Science & Artifactual Intelligence, and also graduated from ITI Data Engineering Track
+* Highly skilled in Python, SQL, NoSQL, Hadoop, Spark, Bash Scripting, DWH, Data Lake, Informatica, Data Vault, Able to build and optimize data pipelines. I am well-equipped to tackle complex problems in data. My goal is to apply my skills and expertise to develop innovative solutions that make a positive impact on my work community. I'm constantly learning and exploring new technologies in this ever-evolving major and look forward to collaborating with others who share my passion.
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
